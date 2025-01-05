@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+.background{
+    background-color: blanchedalmond;
+    height:1000px;
+    padding:1%;
+    width:50%;
+}
+.background2{
+    background-color: azure;
+    height:100%;
+    width: 50%;
+    position: absolute;
+    top:0%;
+    left:52%;
+    padding:1%;
+}
+h1,{
+    font-family:cursive;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
