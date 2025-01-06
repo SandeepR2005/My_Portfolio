@@ -40,3 +40,17 @@ ul{
     box-shadow: 6px 3px 8px #666;
     border-radius: 10px;
 }
+footer{
+    background-color: #555;
+    height:20%;
+    width:500%;
+    position: absolute;
+    top:100%;
+}
+.contact{
+    color:white;
+    padding:50px;
+}
+a{
+    color:whitesmoke;
+}
